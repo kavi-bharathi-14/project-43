@@ -1,1 +1,74 @@
 # project-43
+Game Design Document
+Fill up the Following document 
+
+________________________________________
+
+
+
+1.	Write the title of your project.
+Break the rule’s
+________________________________________
+
+
+2.	What is the goal of the game? 
+The player tries to see the real world and get to know about it
+________________________________________
+
+
+3.	Write a brief story of your game? 
+
+Ok now the player is in an office where many people are been 
+Controlled by a mechanism .one person is getting out of the control 
+And don’t know where he is and what he is doing so he tries to escape From the office that time the other people in the office
+try’s to bring the player back to office so the player run’s into another building and to another office and at a point of time
+the player goes to the end of all building .he ends in an forest and after that the other people how are controlled by the mechanism 
+stops in the end of the building .so now the player is free and try’s to see the place near the forest and try’s to get food to eat
+and a place to sleep so he finds a home were some people are been stayed so he goes in and say about how the was controlled and he escaped
+from the place the people in the house helps he and gives him a job, food  and a place to stay the game ends here if wanted we can add many things
+
+ 
+4.	Which are the playing characters of this game? 
+●	Playing characters are the ones which respond to the user based on the input from the user
+●	Cars, monkeys, dinos, wizards etc, are the playing characters in the game.  
+Number	Character Name	What can this character do? 
+1	The player’s name	  The character can run, jump, roll, stunts 
+2	Only one player	
+
+THIS IS HOW I AM GOING TO DO MY GAME:
+
+I am going to use vs code and database 
+WHICH LIBRARY: I think I will use matter.js.
+HOW THE GAME FELL’S: The game feels adventurous and fun.
+DESIGN: Half building and have forest.
+
+5.Which are the Non-Playing Characters of this game?
+●	Non-Playing characters are the ones which do not have an action or a behavior when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc are non-playing characters in the game.   
+Number	Character Name	What can this character do? 
+1	The other people how are controlled by mechanisms	Run, fight
+2	bench	Stay still.
+3	desk	“         “
+4	glass	Can break.
+5	chair	roll
+6	pillar	Can break
+7	food	To eat
+8		
+
+
+
+6.Draw your imagination of this game. What does this game look like?
+●	Draw the game either on your computer or on paper, 
+●	Add images of scenes of the game to show each of the playing and non-playing characters at least once.   
+
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+
+7.How do you plan to make your game engaging? 
+
+Have many obstacles, points, make the other npc fast at a point of time,
+Change in dress, add some new sound to make the player energetic 
+And if the player hit the obstacles add some comic words.
+________________________________________ ________________________________________________________________________________
